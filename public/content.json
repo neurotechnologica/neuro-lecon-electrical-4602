@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "businessName": "Lecon Electrical Services",
+    "phone": "(555) 000-0000",
+    "email": "fitihanegest2004@gmail.com",
+    "address": "[PLACEHOLDER]",
+    "tradeType": "electrical"
+  },
+  "branding": {
+    "trade": "electrical",
+    "primaryColor": "#F59E0B",
+    "accentColor": "#FBBF24",
+    "logoUrl": null,
+    "heroImageUrl": null,
+    "ownerName": "[Owner Name]",
+    "ownerPhotoUrl": null,
+    "ownerStory": null
+  },
+  "header": {
+    "logoUrl": "/logo.png",
+    "navLinks": [
+      {
+        "label": "Services",
+        "href": "#services"
+      },
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "Reviews",
+        "href": "#reviews"
+      },
+      {
+        "label": "Contact",
+        "href": "#booking"
+      }
+    ]
+  },
+  "hero": {
+    "headline": "Johannesburg's Trusted undefined — Call Today",
+    "subheadline": "Licensed, insured. We answer every call.",
+    "ctaText": "Call Now",
+    "ctaLink": "tel:5550000000",
+    "backgroundImage": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1200",
+    "phoneCtaText": "Call (555) 000-0000"
+  },
+  "emergencyBanner": {
+    "enabled": false,
+    "message": "Available Now — Emergency calls answered in under 2 minutes."
+  },
+  "reviews": {
+    "aggregateRating": 4.8,
+    "totalCount": 0,
+    "items": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "text": "Lecon Electrical Services is amazing!",
+        "date": "2025-01-15"
+      },
+      {
+        "name": "John D.",
+        "rating": 5,
+        "text": "Professional and on time.",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "text": "Best electrical in Johannesburg.",
+        "date": "2025-03-10"
+      }
+    ]
+  },
+  "services": [],
+  "differentiators": {
+    "heading": "Why Choose Lecon Electrical Services",
+    "subheading": "Trusted by Johannesburg homeowners",
+    "items": [
+      {
+        "icon": "shield-halved",
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured."
+      },
+      {
+        "icon": "clock",
+        "title": "Same-Day Service",
+        "description": "We show up when you need us."
+      },
+      {
+        "icon": "dollar-sign",
+        "title": "Upfront Pricing",
+        "description": "No surprises."
+      },
+      {
+        "icon": "award",
+        "title": "Satisfaction Guaranteed",
+        "description": "We stand behind every job."
+      }
+    ]
+  },
+  "about": {
+    "story": "[Owner Name] founded Lecon Electrical Services to deliver honest, reliable electrical service to Johannesburg.",
+    "teamImage": "https://images.unsplash.com/photo-1540569014015-19a7be504e3a?w=600",
+    "yearsInBusiness": 10,
+    "certifications": [
+      "Licensed",
+      "Insured",
+      "Bonded"
+    ],
+    "ctaText": "Book a Service"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400",
+      "alt": "Work sample",
+      "isPlaceholder": true
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400",
+      "alt": "Project",
+      "isPlaceholder": true
+    }
+  ],
+  "serviceArea": {
+    "heading": "We Serve Johannesburg and Surrounding Areas",
+    "description": "Lecon Electrical Services proudly serves .",
+    "center": {
+      "lat": 0,
+      "lng": 0
+    },
+    "zoom": 10,
+    "polygon": [],
+    "locations": []
+  },
+  "booking": {
+    "heading": "Book Lecon Electrical Services",
+    "fields": {
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "service": "Service Needed",
+      "preferredDate": "Preferred Date",
+      "message": "Describe Your Issue"
+    },
+    "submitText": "Request a Quote",
+    "confirmationMessage": "Thank you! Lecon Electrical Services will contact you within 1 hour.",
+    "errorMessage": "Something went wrong. Please call us directly."
+  },
+  "faq": [
+    {
+      "question": "Is Lecon Electrical Services licensed?",
+      "answer": "Yes, fully licensed and insured."
+    },
+    {
+      "question": "Free estimates?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Areas served?",
+      "answer": "We serve ."
+    },
+    {
+      "question": "Emergency service?",
+      "answer": "Call for availability."
+    }
+  ],
+  "maintenancePlans": {
+    "enabled": false,
+    "heading": "Maintenance Plans",
+    "plans": [
+      {
+        "name": "Basic",
+        "price": "$99/yr",
+        "billingPeriod": "annually",
+        "features": [
+          "Annual inspection",
+          "Priority scheduling"
+        ],
+        "ctaText": "Get Started"
+      },
+      {
+        "name": "Family",
+        "price": "$179/yr",
+        "billingPeriod": "annually",
+        "features": [
+          "Bi-annual inspection",
+          "10% off repairs"
+        ],
+        "ctaText": "Get Started"
+      },
+      {
+        "name": "Pro",
+        "price": "$29/mo",
+        "billingPeriod": "monthly",
+        "features": [
+          "Monthly check-in",
+          "20% off repairs",
+          "24/7 priority"
+        ],
+        "ctaText": "Get Started"
+      }
+    ]
+  },
+  "chat": {
+    "greeting": "Hi! How can Lecon Electrical Services help you today?",
+    "fallbackMessage": "I'll have [Owner Name] text you back. What's your number?"
+  },
+  "blog": {
+    "heading": "Tips & Insights",
+    "postsPerPage": 6,
+    "posts": []
+  },
+  "adminPanel": {
+    "heading": "Lecon Electrical Services Admin"
+  },
+  "seo": {
+    "defaultTitle": "Lecon Electrical Services — Johannesburg's Trusted Electrical",
+    "defaultDescription": "Lecon Electrical Services provides  in Johannesburg. Call (555) 000-0000.",
+    "ogImage": "/og-image.jpg",
+    "siteUrl": "https://neuro-lecon-electrical-4602.vercel.app",
+    "localBusiness": {
+      "name": "Lecon Electrical Services",
+      "type": "Electrician",
+      "telephone": "(555) 000-0000",
+      "address": {
+        "streetAddress": "[PLACEHOLDER]",
+        "addressLocality": "Johannesburg",
+        "addressRegion": "",
+        "postalCode": "",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "openingHours": [
+        "N/A"
+      ]
+    }
+  }
+}
