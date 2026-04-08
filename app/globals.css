@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply antialiased text-gray-900;
+  }
+}
+
+@layer utilities {
+  .section-label {
+    @apply inline-block text-xs font-semibold uppercase tracking-widest px-3 py-1 rounded-full mb-4;
+    background: color-mix(in srgb, var(--color-accent) 12%, transparent);
+    color: var(--color-accent);
+  }
+}
